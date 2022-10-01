@@ -1,8 +1,6 @@
 import axios from "axios";
 
 // https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=boolean
-// https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=boolean
-
 
 const baseURL = "https://opentdb.com/api.php?amount=";
 
