@@ -9,9 +9,9 @@ typescript
 
 ## Dependencies
 
-axios.\
+axios .\
 absolute imports .\
-@emotion/react.\
+@emotion/react
 
 ## API
 
