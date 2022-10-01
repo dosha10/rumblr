@@ -174,7 +174,7 @@ const Triviahome: React.FC = () => {
                 colorScheme="purple"
                 variant="solid"
                 onClick={replayQuiz}
-                value="Replay Quiz"
+                value="Replay Game"
                 width="full"
               />
             </Box>
